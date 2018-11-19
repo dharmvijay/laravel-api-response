@@ -4,10 +4,10 @@
     "type": "helper",
     "license": "MIT",
     "keywords": ["laravel", "laravel-json-api-responses", "api-response-layer"],
-    "homepage": "https://github.com/dharmvijay/laravel-api-response",
+    "homepage": "https://github.com/dharmvijay/laravel-api-response/",
 	"minimum-stability": "dev",
     "autoload": {
-        "laravel/framework": "5.1.*",
+        "laravel/framework": "5.*",
 		"symfony/psr-http-message-bridge": "0.2",
         "psr-0": {
             "Dharmvijay\\LaravelApiResponse\\": "src/"
