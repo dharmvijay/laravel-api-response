@@ -10,7 +10,7 @@
         "php": "~7.0",
         "laravel/framework": "5.5.*",
 		"symfony/psr-http-message-bridge": "0.2",
-        "psr-4": {
+        "psr-0": {
             "Dharmvijay\\LaravelApiResponse\\": "src/"
         }
     },
