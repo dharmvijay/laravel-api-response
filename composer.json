@@ -1,7 +1,7 @@
 {
     "name": "dharmvijay/laravel-api-response",
     "description": "Laravel api json response class with some features.",
-    "version": "v0.1.1",
+    "version": "0.1.1",
     "type": "helper",
     "license": "MIT",
     "keywords": ["laravel", "laravel-json-api-responses", "api-response-layer"],
