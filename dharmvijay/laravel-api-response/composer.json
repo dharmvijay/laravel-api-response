@@ -1,0 +1,28 @@
+{
+    "name": "dharmvijay/laravel-api-response",
+    "description": "Laravel api json response class with some features.",
+    "version": "v0.1.1",
+    "type": "helper",
+    "license": "MIT",
+    "keywords": ["laravel", "laravel-json-api-responses", "api-response-layer"],
+    "homepage": "https://github.com/dharmvijay/laravel-api-response",
+    "autoload": {
+        "php": "~7.0",
+        "laravel/framework": "5.5.*",
+        "psr-4": {
+            "Dharmvijay\\LaravelApiResponse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dharmvijay Patel",
+            "email": "dbp264@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.3.*"
+    }
+}
