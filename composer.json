@@ -7,8 +7,6 @@
     "homepage": "https://github.com/dharmvijay/laravel-api-response/",
 	"minimum-stability": "dev",
     "autoload": {
-        "laravel/framework": "5.*",
-		"symfony/psr-http-message-bridge": "0.2",
         "psr-0": {
             "Dharmvijay\\LaravelApiResponse\\": "src/"
         }
@@ -21,6 +19,8 @@
     ],
     "require": {
         "php": ">=5.5.9",
+		"laravel/framework": "5.*",
+		"symfony/psr-http-message-bridge": "0.2",
 		"dharmvijay/laravel-api-response" : "master@dev"
     },
     "require-dev": {
