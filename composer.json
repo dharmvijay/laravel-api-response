@@ -1,5 +1,5 @@
 {
-    "name": "dharmvijay/laravel-md-api-response",
+    "name": "dharmvijay/laravel-api-response",
     "description": "Laravel api json response class with some features.",
     "type": "helper",
     "license": "MIT",
@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=5.5.9",
-		"dharmvijay/laravel-md-api-response" : "master@dev",
+		"dharmvijay/laravel-api-response" : "master@dev"
     },
     "require-dev": {
         "phpunit/phpunit": "5.3.*"
