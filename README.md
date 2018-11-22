@@ -15,6 +15,7 @@ composer require dharmvijay/laravel-api-response
 
 Check below index and store operations
 
+```
 <?php
 
 namespace App\Http\Controllers;
@@ -71,3 +72,4 @@ class HomeController extends Controller
         return $response;
     }
 }
+```
