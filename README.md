@@ -6,7 +6,7 @@ Create a base api respnse class to laravel framework.
 
 Require this package with composer:
 
-```
+```php
 composer require dharmvijay/laravel-api-response
 ```
 
@@ -15,7 +15,7 @@ composer require dharmvijay/laravel-api-response
 
 Check below index and store operations
 
-```
+```php
 <?php
 
 namespace App\Http\Controllers;
