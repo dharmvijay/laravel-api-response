@@ -7,7 +7,7 @@ Create a base api respnse class to laravel framework.
 Require this package with composer:
 
 ```php
-composer require dharmvijay/laravel-api-response
+composer require dharmvijay/laravel-api-response dev-master
 ```
 
 
